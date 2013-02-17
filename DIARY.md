@@ -10,3 +10,4 @@ Things I think of.
 **2/17/2013:**
 * Octothorpe is hilarious. 
 * This is a thing I need to remember: What is the difference between = (single-equal) and == (double-equal)? The = (single-equal) assigns the value on the right to a variable on the left. The == (double-equal) tests if two things have the same value.
+* In exercise 5 I learned about format characters. An overview is here: [Python docs] (http://docs.python.org/2/library/stdtypes.html)  

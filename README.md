@@ -9,7 +9,7 @@ Here is what Michelle has done:
 * Markdown refresher (Look, I'm doing it!)
 * Terminal refresher (I think I remember how to type, now.)
 * Exercise 0 (Installed Python 2.7.3, set the path, good to go.)
-* Exercises 1 - 4!
+* Exercises 1 - 5!
 
 What Michelle has left to do:
 * Every other exercise in the book
