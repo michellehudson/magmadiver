@@ -13,4 +13,6 @@ Things I think of.
 * In exercise 5 I learned about format characters. An overview is here: [Python docs] (http://docs.python.org/2/library/stdtypes.html)  
 
 **2/20/2013:**
-* Python Wet Lab!
+* Python Wet Lab! I have an Americano. Blue State is playing all kinds of crazy music. 
+* Use %r when you want to display the raw data. 
+* Use %s for strings, and %d for numbers. These are format types to display variables to users. 
