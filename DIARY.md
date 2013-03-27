@@ -17,3 +17,7 @@ Things I think of.
 * Use %r when you want to display the raw data. 
 * Use %s for strings, and %d for numbers. These are format types to display variables to users.
 * Also, this on Exercise 7: Couldn't you just not use the comma, and turn the last two lines into one single-line print? Yes, you could very easily, but then it'd be longer than 80 characters which in Python is bad style.
+
+**3/27/2013:**
+* Finally back after a month of not pythoning. Here's to remembering what I'm doing!
+* Important thing: escape sequences in Exercise 10. 
