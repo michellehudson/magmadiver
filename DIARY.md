@@ -21,3 +21,7 @@ Things I think of.
 **3/27/2013:**
 * Finally back after a month of not pythoning. Here's to remembering what I'm doing!
 * Important thing: escape sequences in Exercise 10. 
+
+**5/1/2013:**
+* Happy May Day! Back to work.
+* Exercise 13 includes important things about adding "features" to scripts. These are modules. I was just trying to work with a program from the UW Data Science course that includes modules, so this is good timing.
