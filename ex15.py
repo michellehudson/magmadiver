@@ -7,7 +7,7 @@ script, filename = argv
 # this makes a variable txt to do "open" (a function) to a filename that the user inputs.
 txt = open(filename)
 
-# this returns the file, names the filename, and prints it with the read variable. 
+# this returns the file, names the filename, and prints it with the read variable. Called a function on txt with my little dot. Said "hey txt! read this with no parameters! kthx!"
 print "Here is your file %r:" % filename
 print txt.read()
 
