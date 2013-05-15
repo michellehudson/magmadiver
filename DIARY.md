@@ -25,3 +25,10 @@ Things I think of.
 **5/1/2013:**
 * Happy May Day! Back to work.
 * Exercise 13 includes important things about adding "features" to scripts. These are modules. I was just trying to work with a program from the UW Data Science course that includes modules, so this is good timing.
+
+**5/15/2013:**
+* Back from Canada! So, here's what I messed up:
+* In exercise 14, how do I know that I need to add my name while I'm running the script initially? I did it wrong the first time and of course got the "Need more than 1 value to unpack" for the argv module. So I have to run "python ex14.py Michelle" because it won't prompt me for my name -- it just wants to use it. That's okay and I understand now, but it isn't practical for an actual game. I'd want to prompt the user for his or her name.
+* The "further study" for exercise 14 is playing Zork and Adventure. YES.
+* For exercise 15, I had to remember how to open Pydoc. That's in exercise 12. On windows: python -m pydoc COMMAND.
+
