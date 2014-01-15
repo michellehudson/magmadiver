@@ -32,3 +32,7 @@ Things I think of.
 * The "further study" for exercise 14 is playing Zork and Adventure. YES.
 * For exercise 15, I had to remember how to open Pydoc. That's in exercise 12. On windows: python -m pydoc COMMAND.
 
+**1/15/2014:**
+* Oh hi!
+* \n is a regular expression for new line. It factors into exercise 16.
+* Trying to use strings, formats, and escapes to to the target.write more succintly. [This thread is interesting.] (http://stackoverflow.com/questions/6394170/very-basic-python-question-strings-formats-and-escapes)
